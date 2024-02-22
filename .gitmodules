@@ -1,0 +1,9 @@
+[submodule "iSEE-Server"]
+	path = iSEE-Server
+	url = https://github.com/GDSC-KU-SolutionChallenge-iSEE/iSEE-Server
+[submodule "iSEE-application"]
+	path = iSEE-application
+	url = https://github.com/GDSC-KU-SolutionChallenge-iSEE/iSEE-application
+[submodule "iSEE-AI"]
+	path = iSEE-AI
+	url = https://github.com/GDSC-KU-SolutionChallenge-iSEE/iSEE-AI
