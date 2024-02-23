@@ -53,7 +53,7 @@ The user can set the bus number to ride. Then a notification is made to the user
 
 ## 🎥 Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x6i3_LfeTjY/0.jpg)](https://www.youtube.com/watch?v=x6i3_LfeTjY)
+[![DemoLink](https://img.youtube.com/vi/xRIvg8BIayM/0.jpg)](https://www.youtube.com/watch?v=xRIvg8BIayM)
 
 
 ## 💻 How to Run the Code
@@ -67,13 +67,15 @@ The user can set the bus number to ride. Then a notification is made to the user
 **1. Android device (Recomended)**
 
 - Download the app-release.apk file from the [Download Link](https://drive.google.com/drive/folders/1LC_3fcneMIYdz-0ECHatkOIweCWOaB-j?usp=drive_link)
-   
+ 
 
 **2. iOS device**
 
 - Requirements
   - iOS device
   - Flutter setup required
+      - Flutter version: 3.16.8
+      - CocoaPod version: 1.14.2 or newer
   - XCode IDE (MacOS)
 
 ```bash
